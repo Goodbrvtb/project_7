@@ -1,0 +1,13 @@
+.header {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  align-items: center;
+}
+
+.label {
+  display: flex;
+  margin-right: 270px;
+}

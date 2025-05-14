@@ -1,0 +1,9 @@
+.home-title {
+  display: flex;
+  text-align: left;
+  justify-content: center;
+  margin-left: 20px;
+}
+.content-title {
+  text-align: center;
+}

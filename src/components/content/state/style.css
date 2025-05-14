@@ -1,0 +1,9 @@
+.road-map {
+  width: 100%;
+}
+
+.count {
+  width: 600px;
+  display: flex;
+  justify-content: center;
+}
