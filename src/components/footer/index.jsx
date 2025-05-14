@@ -3,7 +3,7 @@ import "./style.css";
 function Footer() {
   return (
     <div className="footer">
-      <p>Create app in 2022</p>
+      <p>Create app in 2025</p>
     </div>
   );
 }
