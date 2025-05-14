@@ -9,7 +9,7 @@ function State() {
     setCount((count) => count + 1);
   };
   const decrement = () => {
-    setCount((count) => count + 1);
+    setCount((count) => count - 1);
   };
   return (
     <HomeTitle
