@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../../assets/RoadMap.jpg";
+import logo from "../../../assets/roadMap.jpg";
 import HomeTitle from "../../homeTitle";
 import "./style.css";
 function Home() {
