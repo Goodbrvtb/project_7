@@ -21,7 +21,6 @@ function RoutesMap() {
       <Suspense fallback={<h1>Загрузка...</h1>}>
         <Routes>
           <Route path="/" element={<Home />}></Route>
-
           <Route path="/reactStart" element={<RectStart />}></Route>
           <Route path="/reactInstall" element={<ReactInstall />}></Route>
           <Route path="/components" element={<Components />}></Route>
