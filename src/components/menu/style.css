@@ -1,7 +1,7 @@
 .custom-menu {
   display: flex;
   flex-direction: row;
-
+  justify-content: center;
   border-radius: 15px;
   color: #282c34;
   font-size: 15px;
